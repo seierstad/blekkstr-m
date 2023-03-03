@@ -1,2 +1,2 @@
-# blekkstr-m
-isolated guitar pedal power supply based on Weber WPDLXFMR-2 transformer
+# blekkstrøm
+isolated guitar pedal power supply based on the Weber WPDLXFMR-2 transformer
